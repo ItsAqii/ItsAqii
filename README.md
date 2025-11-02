@@ -68,6 +68,9 @@ I enjoy working with data visualization tools and building data-driven solutions
   <a href="https://www.linkedin.com/in/aqib-ameen">
     <img src="https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <a href="https://wa.me/923187651505">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
+</a>
 </div>
 
 ---

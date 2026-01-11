@@ -1,7 +1,7 @@
-<h1 align="center">Hello Everyone! 👋 I'm <span style="color:#0078D4;">Aqib Ameen</span></h1>
+<h1 align="center">Hello Everyone! I'm <span style="color:#0078D4;">Aqib Ameen</span></h1>
 
 <div align="center">
-  <h3>💡 Data Analyst | Power BI | Python | SQL | Data Visualization | Machine Learning</h3>
+  <h3>Data Analyst | Power BI | Python | SQL | Data Visualization | Machine Learning</h3>
 </div>
 
 ---
@@ -13,7 +13,7 @@
 </div>
 
 
-<h2 align="center">🔍 About Me</h2>
+<h2 align="center">About Me</h2>
 
 <p align="center">
 I'm a passionate <b>Data Analyst</b> who loves turning data into actionable insights.  
@@ -22,7 +22,7 @@ I enjoy working with data visualization tools and building data-driven solutions
 
 ---
 
-<h2 align="center">🧠 Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 | Category | Tools / Skills |
 |-----------|----------------|
@@ -34,7 +34,7 @@ I enjoy working with data visualization tools and building data-driven solutions
 
 ---
 
-<h2 align="center">🎓 Certifications</h2>
+<h2 align="center">Certifications</h2>
 
 | Certification | Issuer | Duration |
 |----------------|--------|-----------|
@@ -46,7 +46,7 @@ I enjoy working with data visualization tools and building data-driven solutions
 
 ---
 
-<h2 align="center">📊 Featured Projects</h2>
+<h2 align="center">Featured Projects</h2>
 
 | Project | Description |
 |----------|-------------|
@@ -56,7 +56,7 @@ I enjoy working with data visualization tools and building data-driven solutions
 
 ---
 
-<h2 align="center">📫 Connect with Me</h2>
+<h2 align="center">Connect with Me</h2>
 
 <div align="center">
   <a href="mailto:aqib.insights@gmail.com">
@@ -75,7 +75,7 @@ I enjoy working with data visualization tools and building data-driven solutions
 
 ---
 
-<h2 align="center">⭐ Thanks for Visiting!</h2>
+<h2 align="center">Thanks for Visiting!</h2>
 <p align="center">
   <b>“Data is the new oil, but insight is the refinery.”</b>
 </p>

@@ -62,9 +62,6 @@ I enjoy working with data visualization tools and building data-driven solutions
   <a href="mailto:aqib.insights@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://github.com/ItsAqii">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
   <a href="https://www.linkedin.com/in/aqib-ameen">
     <img src="https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
